@@ -1,0 +1,106 @@
+#root {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+  }
+ 
+  body {
+    margin: 0 auto;
+  }
+
+  .text {
+    font-size: 24px;
+    align-items: center;    
+    font-family: "Roboto-Regular";
+  }
+ 
+  .homeH1 {    
+    font-size: 70px;
+  }
+ 
+  .homeH2 {
+    margin-top: 100px;
+    font-size: 24px;
+    color: #535353;
+  }
+ 
+  .homeH3 {
+    font-size: 36px;
+  }
+ 
+  .homeHr {
+    margin: 80px auto;
+    size: 2px;
+    width: 80%;
+  }
+ 
+  .sectionSecondRow {
+    height: 360px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+  }
+ 
+  .sectionFirstRow {
+    width: 30%;
+  }
+ 
+  .Row {
+    width: 80%;
+    margin: 0 auto 120px auto;
+    display: flex;
+    justify-content: space-around;
+  }
+ 
+  .form-avtor {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+ 
+  .cont {
+    width: 500px;
+    height: 300px;
+    padding: 10px 50px;
+    border: 1px solid black;
+  }
+ 
+  input {
+    border: 1px solid black;
+  }
+ 
+  input:focus {
+    border: 3px solid blue;
+    box-shadow: 1px 1px 2px 0 blue;
+  }
+ 
+  .header {
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 25%);
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+ 
+  .profile-img-card {
+    width: 360px;
+    height: 360px;
+    margin: 0 auto 10px;
+    display: block;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+  }
+
+  .reg {
+    width: 96px;
+    height: 96px;
+  }
+
+
+

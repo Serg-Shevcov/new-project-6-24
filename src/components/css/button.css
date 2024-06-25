@@ -1,0 +1,55 @@
+.bt {
+    height: 40px;
+    font-size: 18px;
+    font-family: "Roboto-Regular";
+    align-items: normal;
+}
+
+.button {
+    border: 0;
+    padding: 10px 20px;
+    background-color: #FFFFFF;
+}
+
+.button:hover {
+    background-color: #D9D9D9;
+}
+
+.Log-button {
+    width: 100px;
+    border-radius: 6px;
+    border: 2px;
+    padding: 10px 0;
+    margin-left: 20px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+
+.Reg-button {
+    width: 200px;
+    border-radius: 6px;
+    border: 2px;
+    padding: 10px 0;
+    margin-left: 20px;
+    background-color: #2C6FEF;
+    color: FFFFFF;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+
+.Section-button {
+    width: 250px;
+    height: 60px;
+    border-radius: 6px;
+    background-color: #179E7E;
+    color: #FFFFFF;
+    font-size: 20px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
